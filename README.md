@@ -2,11 +2,11 @@
 
 <p align="left">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=38BCF7&width=700&lines=Full+Stack+Developer+%7C+Backend+Focused;Node.js+%7C+NestJS+%7C+TypeScript"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=38BCF7&width=700&lines=Software+Developer+%7C+Backend+Focused;Node.js+%7C+NestJS+%7C+TypeScript"
  />
 </p>
 
-Backend-focused developer working with Node.js, NestJS and TypeScript, building scalable APIs and modern web applications.
+Software Developer focused on building REST APIs, enterprise systems and integrations with Node.js, NestJS and TypeScript.
 
 ## 💻 Tech Stack
 
