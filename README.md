@@ -6,7 +6,7 @@
  />
 </p>
 
-Software Developer focused on building REST APIs, enterprise systems and integrations with Node.js, NestJS and TypeScript.
+Building projects, exploring software architecture, and learning new technologies.
 
 ## 💻 Tech Stack
 
